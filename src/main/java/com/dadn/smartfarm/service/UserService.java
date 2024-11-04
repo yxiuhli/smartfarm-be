@@ -1,6 +1,6 @@
 package com.dadn.smartfarm.service;
 
-import com.dadn.smartfarm.entity.User;
+import com.dadn.smartfarm.model.User;
 import com.dadn.smartfarm.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

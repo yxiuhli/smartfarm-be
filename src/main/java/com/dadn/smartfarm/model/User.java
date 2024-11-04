@@ -1,4 +1,4 @@
-package com.dadn.smartfarm.entity;
+package com.dadn.smartfarm.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

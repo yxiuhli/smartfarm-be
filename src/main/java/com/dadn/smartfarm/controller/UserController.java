@@ -1,6 +1,6 @@
 package com.dadn.smartfarm.controller;
 
-import com.dadn.smartfarm.entity.User;
+import com.dadn.smartfarm.model.User;
 import com.dadn.smartfarm.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
